@@ -1,5 +1,4 @@
-# Projeto-Unip
-# 📌 Nome do Projeto
+# 📌 Projeto Unip
 
 ## 🎯 Descrição do Desafio
 Explique aqui a **dor do parceiro** e o problema que precisa ser resolvido.
