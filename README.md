@@ -52,7 +52,6 @@ O projeto visa desenvolver um sistema integrado de suporte técnico para uma emp
 - [Gabriel Oliveira dos Santos](https://github.com/gabrielods14) (Dev)
 - [João Gabriel Goulart Silva](https://github.com/Goulart06) (Dev)
 - [Thiago Almeida Ribeiro](https://github.com/Thiagoalmeida74) (Dev)
-- [Richard Willian Barreto](https://github.com/RichardZl123) (Dev)
 
 
 ## 📖 Manual de Instalação
