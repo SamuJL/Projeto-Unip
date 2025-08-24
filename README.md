@@ -1,10 +1,7 @@
-# 📌 Projeto Unip
+# 📌 Sistema de Suporte com Servições de IA
 
-## 🎯 Descrição do Desafio
-Explique aqui a **dor do parceiro** e o problema que precisa ser resolvido.
-
-## 💡 Solução
-Descreva a solução proposta, suas funcionalidades principais e o impacto esperado.
+## 🎯 Descrição do Projeto
+O projeto visa desenvolver um sistema integrado de suporte técnico para uma empresa de médio porte. O objetivo é substituir o atual processo de recebimento de chamados por e-mail, permitindo o registro centralizado das solicitações. A inteligência artificial (IA) será usada para sugerir soluções de forma automática ou encaminhar os chamados ao técnico adequado, com base nas intruções fornecidas pelo time de desenvolvimento.
 
 ---
 
@@ -18,7 +15,7 @@ Descreva a solução proposta, suas funcionalidades principais e o impacto esper
 ---
 
 ## Arquivo Astah com os diagramas:
-blob:https://web.whatsapp.com/6289ffee-1b99-49e8-a850-fa9d719edb11
+
 
 ---
 
