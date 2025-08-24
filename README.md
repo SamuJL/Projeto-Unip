@@ -13,6 +13,15 @@ Descreva a solução proposta, suas funcionalidades principais e o impacto esper
 
 ---
 
+## Sprints dos requisitos do sistema:
+
+---
+
+## Arquivo Astah com os diagramas:
+blob:https://web.whatsapp.com/6289ffee-1b99-49e8-a850-fa9d719edb11
+
+---
+
 ## ✅ Definition of Ready (DoR)
 
 
@@ -32,7 +41,10 @@ Descreva a solução proposta, suas funcionalidades principais e o impacto esper
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
+- *Linguagem*: C#
+- *Framework*: .NET
+- *Banco de Dados*: SQLServer
+- *Ferramentas*: GitHub, Trello, Figma
 
 ---
 
