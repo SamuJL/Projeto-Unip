@@ -7,7 +7,8 @@ O projeto visa desenvolver um sistema integrado de suporte técnico para uma emp
 ---
 
 ## 📋 Backlog do Produto
-
+<details>
+  <summary>📋 Clique aqui para visualizar o Backlog</summary>
 | ID  | Item do Backlog                                                                 | Prioridade | Sprint   | Status   |
 |-----|----------------------------------------------------------------------------------|------------|----------|----------|
 | RF1 | Implementar sistema de Login                                                     | Alta       | Sprint 1 | Pendente |
