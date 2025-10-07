@@ -26,8 +26,8 @@ O projeto visa desenvolver um sistema integrado de suporte técnico para uma emp
 
 ---
 
-## 📆 Cronograma de Evolução do Projeto (Visual)  
-
+<details>
+  <summary>## ## 📆 Cronograma de Evolução do Projeto (Visual)</summary>
 <!--(Adicionar um quadro/diagrama ou link para Trello/Jira mostrando a evolução das sprints) --->  
 
 ---
