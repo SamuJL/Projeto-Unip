@@ -119,12 +119,12 @@ A inteligência artificial (IA) será usada para sugerir soluções de forma aut
 
 | Nome | Papel | GitHub |
 |------|--------|--------|
-| Lucas de Oliveira Silva | Desenvolvedor Frontend | [GitHub](#) |
-| Samuel Jhonata de Lima | Desenvolvedor Backend | [GitHub](#) |
-| Gabriel Oliveira dos Santos | Analista de Requisitos | [GitHub](#) |
-| João Gabriel Goulart Silva | UX/UI Designer | [GitHub](#) |
-| Thiago Almeida Ribeiro | QA / Testes | [GitHub](#) |
-| Gabriel Silva Guimarães | DevOps | [GitHub](#) |
+| Lucas de Oliveira Silva | Desenvolvedor Frontend | [GitHub](https://github.com/Kript0-Web) |
+| Samuel Jhonata de Lima | Desenvolvedor Backend | [GitHub](https://github.com/SamuJL) |
+| Gabriel Oliveira dos Santos | Analista de Requisitos | [GitHub](https://github.com/gabrielods14) |
+| João Gabriel Goulart Silva | UX/UI Designer | [GitHub](https://github.com/Goulart06) |
+| Thiago Almeida Ribeiro | QA / Testes | [GitHub](https://github.com/Thiagoalmeida74) |
+| Gabriel Silva Guimarães | DevOps | [GitHub](https://github.com/guimagabs) |
 
 </details>
 
