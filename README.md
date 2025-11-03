@@ -12,7 +12,7 @@ A solução é multiplataforma — abrangendo **Web**, **Mobile** e **Desktop** 
 
 ---
 
-## 📚 Sumário
+<summary><strong>## 📚 Sumário</strong></summary>
 - [🎯 Descrição do Desafio](#descrição-do-desafio)
 - [📋 Backlog do Produto](#backlog-do-produto-requisitos-funcionais)
 - [📆 Cronograma de Evolução do Projeto](#cronograma-de-evolução-do-projeto)
