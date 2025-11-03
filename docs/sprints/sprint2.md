@@ -31,7 +31,3 @@ Desenvolver o módulo central de chamados, permitindo que os colaboradores abram
 - Diferenciação de acesso por perfil de usuário concluída.  
 
 ---
-
-## 📽️ Entregáveis
-- [📄 Documentação Detalhada da Sprint 2](#)  
-- [🎥 Vídeo de Demonstração — Incremento 2](#)

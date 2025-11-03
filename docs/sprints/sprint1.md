@@ -31,7 +31,3 @@ Implementar o módulo inicial do sistema HelpWave, responsável pela autenticaç
 - CRUD completo de usuários operante.  
 
 ---
-
-## 📽️ Entregáveis
-- [📄 Documentação Detalhada da Sprint 1](#)  
-- [🎥 Vídeo de Demonstração — Incremento 1](#)

@@ -32,7 +32,3 @@ Implementar a integração com a Inteligência Artificial, permitindo que o sist
 - Registro e conclusão de chamados com histórico integrado.  
 
 ---
-
-## 📽️ Entregáveis
-- [📄 Documentação Detalhada da Sprint 3](#)  
-- [🎥 Vídeo de Demonstração — Incremento 3](#)

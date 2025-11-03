@@ -29,7 +29,3 @@ Desenvolver o módulo de relatórios administrativos e técnicos, permitindo a a
 - Sistema de filtros e métricas integrados ao banco de dados.  
 
 ---
-
-## 📽️ Entregáveis
-- [📄 Documentação Detalhada da Sprint 4](#)  
-- [🎥 Vídeo de Demonstração — Incremento 4](#)
