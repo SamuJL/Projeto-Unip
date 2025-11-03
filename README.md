@@ -13,16 +13,27 @@ A solução é multiplataforma — abrangendo **Web**, **Mobile** e **Desktop** 
 ---
 </details>
 <summary><strong>## 📚 Sumário</strong></summary>
+
 - [🎯 Descrição do Desafio](#descrição-do-desafio)
+
 - [📋 Backlog do Produto](#backlog-do-produto-requisitos-funcionais)
+
 - [📆 Cronograma de Evolução do Projeto](#cronograma-de-evolução-do-projeto)
+
 - [🧾 Tabela Descritiva das Sprints](#tabela-descritiva-das-sprints)
+
 - [🛠️ Tecnologias Utilizadas](#tecnologias-utilizadas)
+
 - [🏗️ Estrutura do Projeto](#estrutura-do-projeto)
+
 - [📖 Como Executar, Usar e Testar](#como-executar-usar-e-testar)
+
 - [📂 Link para Documentação](#link-para-documentação)
+
 - [👥 Equipe](#equipe)
+
 - [🗂️ Pasta de Documentação](#pasta-de-documentação)
+
 </details>
 ---
 
