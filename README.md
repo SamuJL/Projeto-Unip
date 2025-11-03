@@ -11,7 +11,7 @@ A solução é multiplataforma — abrangendo **Web**, **Mobile** e **Desktop** 
 </details>
 
 ---
-
+</details>
 <summary><strong>## 📚 Sumário</strong></summary>
 - [🎯 Descrição do Desafio](#descrição-do-desafio)
 - [📋 Backlog do Produto](#backlog-do-produto-requisitos-funcionais)
@@ -23,7 +23,7 @@ A solução é multiplataforma — abrangendo **Web**, **Mobile** e **Desktop** 
 - [📂 Link para Documentação](#link-para-documentação)
 - [👥 Equipe](#equipe)
 - [🗂️ Pasta de Documentação](#pasta-de-documentação)
-
+</details>
 ---
 
 <details>
